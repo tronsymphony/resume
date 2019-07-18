@@ -1,5 +1,5 @@
 # resume
-Files for Interviewers.
+for Interviewers.
 
 thesunsetrestaurant.com
 -----------------------
