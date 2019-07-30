@@ -13,3 +13,17 @@ greatamerican.com
 -------------------------
 For Great American Group I uploaded files i used to create a AJAX search function that pulls data from a databse using php and jQuery.
 functions.php shows how i used Wordpress functions to create a create endpoints that can be called with jQuery in mainscript.js monitorssql.php is the file i use to request data from the mysql database.
+
+
+Other projects i've worked on.
+
+hosatech.com
+-------------------------
+https://brileyfbr.com
+-------------------------
+https://brileyfbr.com
+-------------------------
+http://www.stonefiregrill.com
+-------------------------
+http://thentwk.com
+-------------------------
