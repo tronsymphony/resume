@@ -21,8 +21,6 @@ http://hosatech.com
 -------------------------
 https://brileyfbr.com
 -------------------------
-https://brileyfbr.com
--------------------------
 http://www.stonefiregrill.com
 -------------------------
 http://thentwk.com
